@@ -1,0 +1,3 @@
+sneaker_brands=["nike","adidas","vans","sketchers"]
+sneaker_brands.push("converse")
+puts sneaker_brands.size
